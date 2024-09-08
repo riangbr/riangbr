@@ -7,4 +7,3 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- <img align="center" alt="gig" height="auto" width="200" style="display: inline_block;" src="https://i.pinimg.com/originals/88/2c/84/882c84500ca798e83f63bd3acaeb109f.gif">
