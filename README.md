@@ -14,5 +14,5 @@
 
 <p align="left">
   <a href="https://www.threads.net/@riankk_8" title="Threads">
-  <img src="https://static.vecteezy.com/system/resources/previews/031/737/241/non_2x/threads-social-media-logo-threads-icon-free-png.png" alt="threads"/></a>
+  <img src="https://static.vecteezy.com/system/resources/previews/031/737/241/non_2x/threads-social-media-logo-threads-icon-free-png.png" alt="threads" width="50"/></a>
 </p>
